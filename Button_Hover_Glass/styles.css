@@ -13,7 +13,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #350048;
+  background-color: #222;
 }
 
 .container {
@@ -119,18 +119,18 @@ body {
 
 .container .btn:nth-child(1)::before,
 .container .btn:nth-child(1)::after {
-  background: #ff1f71;
-  box-shadow: 0 0 5px #ff1f71, 0 0 5px #ff1f71, 0 0 5px #ff1f71, 0 0 5px #ff1f71;
+  background: #fe019a;
+  box-shadow: 0 0 5px #fe019a, 0 0 5px #fe019a, 0 0 5px #fe019a, 0 0 5px #fe019a;
 }
 
 .container .btn:nth-child(2)::before,
 .container .btn:nth-child(2)::after {
-  background: #2bd2ff;
-  box-shadow: 0 0 5px #2bd2ff, 0 0 5px #2bd2ff, 0 0 5px #2bd2ff, 0 0 5px #2bd2ff;
+  background: #08ff08;
+  box-shadow: 0 0 5px #08ff08, 0 0 5px #08ff08, 0 0 5px #08ff08, 0 0 5px #08ff08;
 }
 
 .container .btn:nth-child(3)::before,
 .container .btn:nth-child(3)::after {
-  background: #1eff45;
-  box-shadow: 0 0 5px #1eff45, 0 0 5px #1eff45, 0 0 5px #1eff45, 0 0 5px #1eff45;
+  background: #00fdff;
+  box-shadow: 0 0 5px #00fdff, 0 0 5px #00fdff, 0 0 5px #00fdff, 0 0 5px #00fdff;
 }

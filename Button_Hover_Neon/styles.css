@@ -5,7 +5,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #031321;
+  background: #222;
   font-family: consolas;
 }
 
@@ -13,7 +13,7 @@ a {
   position: relative;
   display: inline-block;
   padding: 15px 30px;
-  color: #2196f3;
+  color: #f9ba0c;
   text-transform: uppercase;
   letter-spacing: 4px;
   text-decoration: none;
@@ -24,9 +24,9 @@ a {
 
 /* ################################################## */
 a:hover {
-  color: #255784;
-  background: #2196f3;
-  box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+  color: #8b6703;
+  background: #f9ba0c;
+  box-shadow: 0 0 10px #f9ba0c, 0 0 40px #f9ba0c, 0 0 80px #f9ba0c;
   transition-delay: 1s;
 }
 
@@ -41,7 +41,7 @@ a span:nth-child(1) {
   left: -100%;
   width: 100%;
   height: 2px;
-  background: linear-gradient(90deg, transparent, #2196f3);
+  background: linear-gradient(90deg, transparent, #f9ba0c);
 }
 
 a:hover span:nth-child(1) {
@@ -54,7 +54,7 @@ a span:nth-child(3) {
   right: -100%;
   width: 100%;
   height: 2px;
-  background: linear-gradient(270deg, transparent, #2196f3);
+  background: linear-gradient(270deg, transparent, #f9ba0c);
 }
 
 a:hover span:nth-child(3) {
@@ -68,7 +68,7 @@ a span:nth-child(2) {
   right: 0;
   width: 2px;
   height: 100%;
-  background: linear-gradient(180deg, transparent, #2196f3);
+  background: linear-gradient(180deg, transparent, #f9ba0c);
 }
 
 a:hover span:nth-child(2) {
@@ -82,7 +82,7 @@ a span:nth-child(4) {
   left: 0;
   width: 2px;
   height: 100%;
-  background: linear-gradient(360deg, transparent, #2196f3);
+  background: linear-gradient(360deg, transparent, #f9ba0c);
 }
 
 a:hover span:nth-child(4) {

@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #222;
+  background: #111;
 }
 
 .container {
@@ -27,7 +27,7 @@ body {
   width: 320px;
   height: 400px;
   color: #fff;
-  background: #222;
+  background: #111;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -13,7 +13,7 @@ section {
   align-items: center;
   padding: 40px 0;
   min-height: 100vh;
-  background: #222;
+  background: #111;
 }
 
 section::before {
@@ -23,7 +23,7 @@ section::before {
   left: 0;
   width: 100%;
   height: 50px;
-  background: #b1b1b1;
+  background: #333;
 }
 
 .container {
@@ -118,13 +118,13 @@ section::before {
 }
 
 .card:nth-child(1) .text {
-  background: #ff0461;
+  background: #fe019a;
 }
 .card:nth-child(2) .text {
-  background: #2bd2ff;
+  background: #08ff08;
 }
 .card:nth-child(3) .text {
-  background: #18d539;
+  background: #00fdff;
 }
 
 svg {

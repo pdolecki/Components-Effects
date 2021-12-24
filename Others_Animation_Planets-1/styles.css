@@ -109,7 +109,8 @@ body {
   position: absolute;
   width: 340px;
   height: 340px;
-  background: url(earth.jpg);
+  /* background: url(earth.jpg); */
+  background: radial-gradient(#03a9f444, rgba(0, 0, 0, 0.4)), url(earth.jpg);
   border-radius: 50%;
   background-size: cover;
   box-shadow: inset 0 0 20px #03a9f4, 0 0 120px #03a9f4;
@@ -199,7 +200,8 @@ body {
   position: absolute;
   width: 340px;
   height: 340px;
-  background: url(mars.jpg);
+  /* background: url(mars.jpg); */
+  background: radial-gradient(#ff572244, rgba(0, 0, 0, 0.4)), url(mars.jpg);
   border-radius: 50%;
   background-size: cover;
   box-shadow: inset 0 0 20px #ff5722, 0 0 120px #ff5722;

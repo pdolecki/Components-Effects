@@ -7,7 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #111;
+  background: #222;
   font-family: "Poppins", sans-serif;
 }
 
@@ -18,7 +18,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #111;
+  background: #222;
 }
 
 .box::before {
@@ -52,5 +52,5 @@ body {
 .content {
   padding: 20px;
   box-sizing: border-box;
-  color: #999;
+  color: #ccc;
 }

@@ -32,7 +32,7 @@ ul li a {
   text-decoration: none;
   text-align: center;
   text-transform: uppercase;
-  color: #fff;
+  color: rgba(136, 48, 0, 0.4);
   font-size: 4em;
   font-weight: 700;
   transition: 0.5s;
@@ -49,8 +49,8 @@ ul li a::before {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 0.35em;
-  color: #3bffe8;
-  text-shadow: 0 0 10px #3bffe8, 0 0 20px #3bffe8, 0 0 80px #3bffe8;
+  color: #822b09;
+  text-shadow: 0 0 10px #822b09, 0 0 20px #822b09, 0 0 80px #822b09;
   font-weight: 500;
   letter-spacing: 40px;
   white-space: nowrap;

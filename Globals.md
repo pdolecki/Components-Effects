@@ -7,6 +7,7 @@
 
 --color-neon-orange-1: #f9ba0c;
 --color-text-orange-1: #8b6703;
+--color-text-orange-2: #9a7e32;
 
 <!-- FLUO -->
 
